@@ -1,0 +1,24 @@
+body {
+  background: url(../assets/images/stars.jpg); }
+
+header {
+  height: 20vh;
+  padding-top: 5vh; }
+
+#logo-header {
+  height: 15vh; }
+
+.movie-title {
+  color: white; }
+
+.movie-episode {
+  color: white; }
+
+.character-url {
+  color: white;
+  font-size: 0.7em; }
+
+.link-character {
+  display: inline-block; }
+
+/*# sourceMappingURL=main.css.map */
